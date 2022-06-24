@@ -19,7 +19,7 @@
     "prepublishOnly": "tag-matches"
   },
   "dependencies": {
-    "patch-package": "^5.0.0",
+    "patch-package": "^6.2.1",
     "websocket-reconnector": "^1.1.1"
   },
   "devDependencies": {
